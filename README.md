@@ -1,5 +1,4 @@
  <div align='center'>
-    <a href="https://quantum-it.netlify.app/"> 🌐 Live 🌐</a> </div> </br>
 
 ## Tech Stack Used
 
