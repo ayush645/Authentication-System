@@ -1,5 +1,5 @@
  <div align='center'>
-    <a href="https://quantum-assigment.netlify.app"> 🌐 Live 🌐</a> </div> </br>
+    <a href="https://quantum-it.netlify.app/"> 🌐 Live 🌐</a> </div> </br>
 
 ## Tech Stack Used
 
