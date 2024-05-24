@@ -19,12 +19,23 @@
 ![33](https://github.com/rishimaheshwari123/Quantum-task/assets/114659322/efb348ef-ca84-430c-ae36-7bc24283bf11)
 # Setup And Testing
 
+```
 npm install
 
+```
 
+```
 cd ./client
 npm install
 
+```
 
+``
 npm start
+
+```
+
+```
 cd ./client npm start
+
+```
